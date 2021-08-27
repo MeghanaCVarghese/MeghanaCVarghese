@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MeghanaCVarghese
 - 👀 I’m interested in web development and python projects.
 - 💞️ I’m looking to collaborate on Web development intership at "The Intern Academy"
+- Currently doing Web Development and Designing Internship at "The Sparks Foundation"
 - 📫 How to reach me : meghanac118@gmail.com
 
 <!---
