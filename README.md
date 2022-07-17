@@ -5,7 +5,7 @@
   2.Technophile Bud  
   3.The Sparks Foundation  
   4.LetsGrowMore  
-  5.NeoDocto In
+  5.NeoDocto Inc 
 - How to reach me : meghanac118@gmail.com
 
 <!---
