@@ -1,12 +1,11 @@
-- Hi, I’m @MeghanaCVarghese
-- I’m interested in web development and python projects.
-- Web Developer Intern at   
-  1.The Intern Academy  
-  2.Technophile Bud  
-  3.The Sparks Foundation  
-  4.LetsGrowMore  
-  5.NeoDocto Inc 
-- How to reach me : meghanac118@gmail.com
+- My name is Meghana C Varghese,MCA graduate 2024.
+- Data Science Aspirant
+- Microsoft Certified:Azure AI fundamentals(AI-900),Microsoft Certified:Azure Data Scientist Associate(DP-100)
+- Data Science Intern at   
+  1.Prodigy Info Tech  
+  2.Arcane Path Tech Solutions  
+  3.CodersCave
+- Reach me at: meghanac118@gmail.com
 
 <!---
 MeghanaCVarghese/MeghanaCVarghese is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
