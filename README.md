@@ -1,4 +1,4 @@
-- My name is Meghana C Varghese,MCA graduate 2024.
+- My name is Meghana C Varghese,MCA graduate 2023.
 - Data Science Aspirant
 - Microsoft Certified:Azure AI fundamentals(AI-900),Microsoft Certified:Azure Data Scientist Associate(DP-100)
 - Data Science Intern at   
