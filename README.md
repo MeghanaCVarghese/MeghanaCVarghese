@@ -1,4 +1,3 @@
-Based on your resume, here's a structured GitHub README bio:
 
 ---
 
@@ -78,8 +77,7 @@ I’m a passionate Data Scientist with **3+ years of experience** in **business 
 
 - **Email:** [meghanac118@gmail.com](mailto:meghanac118@gmail.com)  
 - **LinkedIn:** [Meghana C Varghese](https://www.linkedin.com/in/meghana-c-varghese)  
-- **GitHub:** [Your GitHub Username]  
+- **GitHub:** [https://github.com/MeghanaCVarghese] 
 
 ---
 
-Feel free to copy, modify, and personalize this README further! Let me know if you'd like additional tweaks.
